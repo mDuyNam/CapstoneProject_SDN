@@ -6,7 +6,7 @@ Team size: 5 members.
 Technology:
 - Kubernetes <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png" alt="Git" width="100" height="50" title="Kubernetes" />
+        <img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png" alt="Git" width="100" height="100" title="Kubernetes" />
     </a>
 </p>
 
@@ -18,13 +18,13 @@ Technology:
 
 - HAproxy <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://th.bing.com/th/id/OIP.ck5ou-oBoyGbhCRulCHPdQAAAA?rs=1&pid=ImgDetMain" alt="Git" width="100" height="50" title="HAproxy" />
+        <img src="https://th.bing.com/th/id/OIP.ck5ou-oBoyGbhCRulCHPdQAAAA?rs=1&pid=ImgDetMain" alt="Git" width="100" height="100" title="HAproxy" />
     </a>
 </p>
 
 - Load Balancer <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://th.bing.com/th/id/OIP.0eTqLJlta-LRJWxfkeUZagHaHa?rs=1&pid=ImgDetMain" alt="Git" width="100" height="50" title="LoadBalancer" />
+        <img src="https://th.bing.com/th/id/OIP.0eTqLJlta-LRJWxfkeUZagHaHa?rs=1&pid=ImgDetMain" alt="Git" width="100" height="100" title="LoadBalancer" />
     </a>
 </p>
 
